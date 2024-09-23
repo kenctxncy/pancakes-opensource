@@ -1,2 +1,1 @@
-# pancakes-opensource
-блины
+# блины
