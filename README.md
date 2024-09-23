@@ -1,2 +1,2 @@
 # блины
-![pancakes][/pancakes/pancakes.jpg]
+![pancakes](./pancakes/pancakes.jpg)
